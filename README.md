@@ -1,4 +1,4 @@
-Web Infrastructure Design
+### Web Infrastructure Design
 
 This project contains web infrastructure diagrams and explanations for hosting the website www.foobar.com.
 
